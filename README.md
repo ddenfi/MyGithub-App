@@ -1,4 +1,5 @@
 # **myGithub-App**
+A simple app for practicing API GitHub 🙂
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 
@@ -33,7 +34,7 @@ Project ini dibangun menggunakan beberapa teknologi seperti yang ada di bawah in
 - Lootie Animation
 - Kotlin Coroutine & live data
 
-## Contact Me
+## Contact Me 🤝
 | Platfrom | Link to |
 | ------ | ------ |
 | Instagram | [@d.dnfi][ig] |
@@ -41,7 +42,7 @@ Project ini dibangun menggunakan beberapa teknologi seperti yang ada di bawah in
 | LikedIn | [deki.nfi][linkedin] |
 | Behance | [ddenfi][be] |
 
-> Note: Beberapa project lain akan sering di upload di Instagram
+> Note: Beberapa project lain akan sering di upload di Instagram ❤️
 
    [ig]: <https://www.instagram.com/d.dnfi/>
    [git]: <https://github.com/ddenfi>
