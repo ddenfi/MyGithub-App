@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyGitHubApp2</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="search_hint">Pencarian "Nama"</string>
+    <string name="AvatarDesc">Foto Profil</string>
+    <string name="Greeting">Welcome to MyGitHub"</string>
+    <string name="CopyRight">Created by ddenfi</string>
+    <string name="dark_mode">Dark Mode</string>
+
+</resources>
