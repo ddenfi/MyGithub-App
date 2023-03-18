@@ -3,7 +3,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 
 [Screenshot App]
-<img src="![mygithubapp](https://user-images.githubusercontent.com/99384080/226091715-5d793bb8-f32d-47e1-97a5-453fd390f968.gif)" width="100">
+<img src="https://user-images.githubusercontent.com/99384080/226091715-5d793bb8-f32d-47e1-97a5-453fd390f968.gif" width="100">
 
 
 Project **myGitHubApp** yang saya kerjakan ini merupakan salah satu submission platform pembelajaran dicoding dalam kelas android fundamental. Dalam project ini saya belajar mengenai banyak hal mengenai dasar dasar sebuah aplikasi seperti:
